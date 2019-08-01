@@ -78,6 +78,7 @@ footer a:hover{
 }
 
 p.caption{
+	text-align: center;
 	color: blue;
 	font-style: italic;
 	margin-top: 0;
